@@ -1,0 +1,30 @@
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.AssemblyReference.cache
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.SuggestedBindingRedirects.cache
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.LOCtool.resources
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Properties.Resources.resources
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.GenerateResource.cache
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.CoreCompileInputs.cache
+D:\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.exe.config
+D:\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.exe
+D:\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.pdb
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.exe
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.pdb
+D:\Project Measurements\Group1\LOCtool\bin\Debug\Database.mdf
+D:\Project Measurements\Group1\LOCtool\bin\Debug\Database_log.ldf
+D:\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Form_History.resources
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\bin\Debug\Database.mdf
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\bin\Debug\Database_log.ldf
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.exe.config
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.exe
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\bin\Debug\LOCtool.pdb
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.AssemblyReference.cache
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Form_History.resources
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.LOCtool.resources
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Properties.Resources.resources
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.GenerateResource.cache
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.csproj.CoreCompileInputs.cache
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.exe
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.pdb
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Form_chinh.resources
+C:\Users\MSI PC\OneDrive\Máy tính\Project Measurements\Project Measurements\Group1\LOCtool\obj\Debug\LOCtool.Form_Member.resources
